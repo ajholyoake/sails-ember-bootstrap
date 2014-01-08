@@ -1,0 +1,23 @@
+{
+  "name": "assets",
+  "version": "0.0.0",
+  "authors": [
+    "Alex Holyoake <a.j.holyoake@gmail.com>"
+  ],
+  "description": "sailstest",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.7",
+    "bootstrap": "~3.0.3",
+    "ember": "~1.2.0",
+    "ember-data": "~0.0.14"
+  }
+}
